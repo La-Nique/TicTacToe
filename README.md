@@ -1,7 +1,12 @@
 # Let's Play Tic Tac Toe
 ###### Lanique L. Peterson
 
-![love](https://github.com/joshnatis/joshnatis/blob/master/pix/heart.gif)
+### React JavaScript Tic Tac Toe
+
+#### ![love](https://github.com/joshnatis/joshnatis/blob/master/pix/heart.gif) GamePlay Preview ![love](https://github.com/joshnatis/joshnatis/blob/master/pix/heart.gif)
+
+[<img width="641" alt="Valognan City Homepage" src="https://raw.githubusercontent.com/La-Nique/TicTacToe/1914c6c2a68af9bc3b822e2ef0981cca93aed1ba/src/components/imgs/preview.png">](https://github.com/La-Nique)
+
 <!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
