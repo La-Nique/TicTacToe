@@ -5,7 +5,7 @@
 
 #### ![love](https://github.com/joshnatis/joshnatis/blob/master/pix/heart.gif) GamePlay Preview ![love](https://github.com/joshnatis/joshnatis/blob/master/pix/heart.gif)
 
-[<img width="641" alt="Valognan City Homepage" src="https://raw.githubusercontent.com/La-Nique/TicTacToe/1914c6c2a68af9bc3b822e2ef0981cca93aed1ba/src/components/imgs/preview.png">](https://github.com/La-Nique)
+[<img width="350" alt="Valognan City Homepage" src="https://raw.githubusercontent.com/La-Nique/TicTacToe/1914c6c2a68af9bc3b822e2ef0981cca93aed1ba/src/components/imgs/preview.png">](https://github.com/La-Nique)
 
 <!-- # Getting Started with Create React App
 
